@@ -1,0 +1,6 @@
+{
+  "name": "AikyaCare - AI Rural Telemedicine Platform",
+  "description": "SIH25018 Telemedicine Access for Rural Healthcare in Nabha. AI-powered telemedicine platform featuring multi-role portals, AI health assistant, ML disease risk scoring, digital health records, and emergency SOS.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
